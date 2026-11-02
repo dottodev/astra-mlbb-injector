@@ -1,3 +1,0 @@
-C:/astra/core/.cxx/Debug/3b1246x5/arm64-v8a/CMakeFiles/core.dir
-C:/astra/core/.cxx/Debug/3b1246x5/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/astra/core/.cxx/Debug/3b1246x5/arm64-v8a/CMakeFiles/rebuild_cache.dir

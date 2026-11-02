@@ -1,7 +1,26 @@
-.gradle/
+﻿# Build artifacts
+*.apk
+*.aab
+*.jar
+*.aar
 build/
-out/
-local.properties
-*.iml
+.gradle/
+.cxx/
 .idea/
-superpowers/
+local.properties
+
+# Gradle wrapper cache
+.gradle-wrapper/
+
+# MD files (non-needed)
+*.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android
+*.iml
+captures/
+.externalNativeBuild
+.cxx

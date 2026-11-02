@@ -1,1 +1,0 @@
-C:\astra\core\src\main\cpp\CMakeLists.txt
