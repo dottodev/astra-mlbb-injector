@@ -1,0 +1,16 @@
+{
+  "version": "1.9.20.9876",
+  "entityList": "0x12345678",
+  "entityCount": "0x12345680",
+  "entityStride": "0x8",
+  "posX": "0x10",
+  "posY": "0x14",
+  "posZ": "0x18",
+  "team": "0x20",
+  "health": "0x24",
+  "heroId": "0x28",
+  "camera": "0x30",
+  "aimVector": "0x40",
+  "localPlayer": "0x50",
+  "lobbyHandler": "0x60"
+}

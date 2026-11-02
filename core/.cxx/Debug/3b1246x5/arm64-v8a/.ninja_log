@@ -1,0 +1,12 @@
+# ninja log v5
+2	359	8151546910517558	CMakeFiles/core.dir/core.cpp.o	20ef22e49e7d351
+28	579	8151548074402402	CMakeFiles/core.dir/ipc.cpp.o	e8aee84da983d9ba
+127	2437	8152864081213370	CMakeFiles/core.dir/features.cpp.o	71b1330cbd470976
+67	950	8152864376842207	CMakeFiles/core.dir/inject.cpp.o	93114180db7e81dd
+222	1336	8152865346532829	CMakeFiles/core.dir/features.cpp.o	71b1330cbd470976
+33	1384	8152865346844542	CMakeFiles/core.dir/injector.cpp.o	e2752f6a236591d2
+137	1405	8152865347156976	CMakeFiles/core.dir/inject.cpp.o	93114180db7e81dd
+1386	1960	8152865353007811	CMakeFiles/core.dir/anticheat.cpp.o	1ba14fd63b3c0c59
+10	637	8152865735051842	CMakeFiles/core.dir/jni_bridge.cpp.o	eca7d30a6581eaa1
+9	189	8152865912452425	CMakeFiles/core.dir/core.cpp.o	20ef22e49e7d351
+191	675	8152865916980888	C:/astra/core/build/intermediates/cxx/Debug/3b1246x5/obj/arm64-v8a/libcore.so	b514dc6ac24af3db

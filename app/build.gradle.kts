@@ -14,6 +14,7 @@ android {
         versionName = "1.0"
         ndk {
             abiFilters += "arm64-v8a"
+            ndkVersion = "25.1.8937393"
         }
     }
 
@@ -41,5 +42,8 @@ android {
 
 dependencies {
     implementation(project(":core"))
+    implementation("androidx.core:core:1.13.1")
+    implementation("androidx.appcompat:appcompat:1.7.0")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.24")
     testImplementation("junit:junit:4.13.2")
 }
